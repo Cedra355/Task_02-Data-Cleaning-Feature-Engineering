@@ -5,8 +5,8 @@ This project focuses on cleaning and preparing a Retail-Store Sales Dataset usin
 
 ## Project Resources
 
-- **Dataset Source:** [Add your original dataset download/source link here]
-- **Jupyter Notebook:** [Task 02 – Data Cleaning & Feature Engineering](./Task_02%20-%20Data%20Cleaning%20%26%20Feature%20Engineering.ipynb)
+- **Dataset Source:** https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
+- **Jupyter Notebook:** [Task 02 – Data Cleaning & Feature Engineering] (https://colab.research.google.com/drive/1bg07U3jp0de6wiFO1PKvdf3f9u1TzVoB)
 - **Project Report (PDF):** [View PDF Report](./Task_02_Report.pdf)
 - **Project Screenshots:** [View Screenshots](./Task_02_Screenshots/)
 - 
