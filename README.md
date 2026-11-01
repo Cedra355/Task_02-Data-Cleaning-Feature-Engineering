@@ -162,7 +162,7 @@ Median imputation was used for missing numerical values. Some missing Total Spen
 The four inconsistent transactions were retained because their original missing values prevent independent verification. Potential outliers were not automatically removed.
 
 ## Project Files
-This repository contains the project notebook, documentation, dataset (if included), and screenshots of the implementation and outputs.
+This repository contains the project notebook, documentation, dataset, and screenshots of the implementation and outputs.
 
 ## How to Run the Project
 1. Clone or download this repository.
