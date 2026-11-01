@@ -3,6 +3,13 @@
 ## Project Overview
 This project focuses on cleaning and preparing a Retail-Store Sales Dataset using Python. The objective is to improve data quality, handle missing values, investigate potential outliers, encode categorical variables, scale numerical features, and create new features for further analysis.
 
+## Project Resources
+
+- **Dataset Source:** [Add your original dataset download/source link here]
+- **Jupyter Notebook:** [Task 02 – Data Cleaning & Feature Engineering](./Task_02%20-%20Data%20Cleaning%20%26%20Feature%20Engineering.ipynb)
+- **Project Report (PDF):** [View PDF Report](./Task_02_Report.pdf)
+- **Project Screenshots:** [View Screenshots](./Task_02_Screenshots/)
+- 
 ## Dataset Information
 - **Dataset Name:** Retail-Store Sales Dataset
 - **Original Dataset Shape:** 12,575 rows × 11 columns
